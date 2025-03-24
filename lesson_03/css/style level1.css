@@ -1,0 +1,4 @@
+/* @import url(reset.css); */
+main * {color: green;}
+main>ul>li {color:red;}
+
